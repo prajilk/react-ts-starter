@@ -3,7 +3,7 @@
 React TypeScript tarter template
 
 ```
-git clone https://github.com/prajilk/react-ts-starter
+git clone https://github.com/prajilk/react-ts-starter.git
 ```
 
 -   React + Vite
