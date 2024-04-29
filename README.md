@@ -2,6 +2,10 @@
 
 React TypeScript tarter template
 
+```
+git clone https://github.com/prajilk/react-ts-starter
+```
+
 -   React + Vite
 -   TypeScript
 -   Tailwind CSS
